@@ -21,6 +21,24 @@
 <table>
       <tr>
         <td>Name</td>
+        <td>Sowmya Tejaswini</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/Tejaswini-628</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/sowmya-tejaswini-peetani-8671b0251</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>Shri Vishnu Engineering College For Womens</td>
+      </tr>
+    </table>
+<table>
+      <tr>
+        <td>Name</td>
         <td>Arnav Goel</td>
       </tr>
       <tr>
