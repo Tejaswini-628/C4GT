@@ -33,7 +33,7 @@
       </tr>
       <tr>
         <td>College</td>
-        <td>Shri Vishnu Engineering College For Womens</td>
+        <td></td>
       </tr>
     </table>
 <table>
